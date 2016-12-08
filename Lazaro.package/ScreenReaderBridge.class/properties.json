@@ -1,0 +1,15 @@
+{
+	"category" : "Lazaro",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"commandLine",
+		"speed" ],
+	"name" : "ScreenReaderBridge",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

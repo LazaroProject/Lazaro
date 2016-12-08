@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"isAvailable" : "MatiasMelendi 11/23/2016 00:24",
+		"newConfiguredWithSpeed:" : "MatiasMelendi 11/28/2016 22:15" },
+	"instance" : {
+		"=" : "MatiasMelendi 11/23/2016 22:56",
+		"command" : "MatiasMelendi 11/14/2016 23:18",
+		"configuredWithSpeed:" : "MatiasMelendi 11/28/2016 22:15",
+		"initialize" : "MatiasMelendi 11/14/2016 23:21",
+		"isAvailable" : "MatiasMelendi 11/23/2016 00:24",
+		"isObsolete" : "MatiasMelendi 11/23/2016 23:14",
+		"sendTextToScreenReader:" : "MatiasMelendi 11/22/2016 23:15",
+		"speed" : "MatiasMelendi 11/28/2016 22:16" } }

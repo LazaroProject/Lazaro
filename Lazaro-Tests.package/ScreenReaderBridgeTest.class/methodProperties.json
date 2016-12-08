@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"selectAnUsupportedOSAsCurrentOS" : "MatiasMelendi 5/10/2016 02:40",
+		"selectLinuxAsCurrentOS" : "MatiasMelendi 5/10/2016 02:16",
+		"selectWin32AsCurrentOS" : "MatiasMelendi 5/10/2016 02:28",
+		"setUp" : "MatiasMelendi 5/10/2016 02:45",
+		"tearDown" : "MatiasMelendi 11/23/2016 00:03",
+		"testABridgeCanBeConfiguredWithSpeedAndItModifiesTheCommandThatWillBeExecuted" : "MatiasMelendi 11/28/2016 22:43",
+		"testESpeakBridgeHasACommandToCommunicateByLinuxCommandLine" : "MatiasMelendi 11/17/2016 22:25",
+		"testESpeakBridgeHasACommandToCommunicateByWindowsCommandLine" : "MatiasMelendi 5/10/2016 02:46",
+		"testESpeakBridgeHasNoCommandForAnUnsupportedOS" : "MatiasMelendi 11/17/2016 21:32",
+		"testFestivalBridgeHasACommandToCommunicateByLinuxCommandLine" : "MatiasMelendi 11/17/2016 22:26",
+		"testFestivalBridgeHasNoACommandToCommunicateByWindowsCommandLine" : "MatiasMelendi 11/17/2016 21:32",
+		"testGNUStepBridgeHasACommandToCommunicateByLinuxCommandLine" : "MatiasMelendi 11/17/2016 23:36",
+		"testGNUStepBridgeHasNoACommandToCommunicateByWindowsCommandLine" : "MatiasMelendi 11/17/2016 23:38",
+		"testReadingTextWithEspeak" : "MatiasMelendi 11/23/2016 23:05",
+		"testReadingTextWithFestival" : "MatiasMelendi 11/23/2016 23:06",
+		"testReadingTextWithGNUStep" : "MatiasMelendi 11/23/2016 23:06",
+		"testReadingTextWithSpdSay" : "MatiasMelendi 11/23/2016 23:06",
+		"testSpdSayBridgeHasACommandToCommunicateByLinuxCommandLine" : "MatiasMelendi 11/17/2016 22:26",
+		"testSpdSayBridgeHasNoCommandToCommunicateByWindowsCommandLine" : "MatiasMelendi 11/17/2016 22:12" } }

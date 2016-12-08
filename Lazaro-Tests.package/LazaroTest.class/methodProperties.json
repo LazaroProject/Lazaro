@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testHavingOnlyESpeakTTSLazaroGivesYouAListWithAllAvailableTTSsAndESpeakIsTheOnlyOne" : "AngelesTellaArena 11/28/2016 18:39",
+		"testHavingOnlyESpeakTTSLázaroGivesYouAListWithAllAvailableTTSsAndESpeakIsTheOnlyOne" : "MatiasMelendi 11/23/2016 23:06",
+		"testHavingOnlyFestivalTTSLazaroGivesYouAListWithAllAvailableTTSsAndFestivalIsTheOnlyOne" : "AngelesTellaArena 11/28/2016 18:39",
+		"testHavingOnlyFestivalTTSLázaroGivesYouAListWithAllAvailableTTSsAndFestivalIsTheOnlyOne" : "MatiasMelendi 11/23/2016 23:07",
+		"testLazaroCanSetTheCurrentTTSInPharo" : "MatiasMelendi 11/23/2016 22:55",
+		"testLazaroKnowsWhatIsTheCurrentTTSInPharo" : "MatiasMelendi 11/23/2016 23:00" } }

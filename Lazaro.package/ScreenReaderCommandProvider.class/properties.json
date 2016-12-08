@@ -1,0 +1,14 @@
+{
+	"category" : "Lazaro",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ScreenReaderCommandProvider",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+command
+festivalCommand
+	^ 'festival --tts'

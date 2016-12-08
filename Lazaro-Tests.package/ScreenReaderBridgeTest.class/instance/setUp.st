@@ -1,0 +1,4 @@
+support
+setUp
+
+	self selectLinuxAsCurrentOS

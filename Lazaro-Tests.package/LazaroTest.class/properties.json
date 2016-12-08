@@ -1,0 +1,14 @@
+{
+	"category" : "Lazaro-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LazaroTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Lazaro",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ESpeakBridge",
+	"pools" : [
+		 ],
+	"super" : "ScreenReaderBridge",
+	"type" : "normal" }

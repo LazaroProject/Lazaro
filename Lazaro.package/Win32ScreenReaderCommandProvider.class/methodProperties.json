@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"isProviderForCurrentOS" : "MatiasMelendi 5/10/2016 01:54" },
+	"instance" : {
+		"commandForReading:with:" : "MatiasMelendi 11/17/2016 22:25",
+		"eSpeakCommand" : "MatiasMelendi 5/10/2016 01:57",
+		"festivalCommand" : "MatiasMelendi 11/17/2016 21:34",
+		"gnuStepCommand" : "MatiasMelendi 11/17/2016 23:39",
+		"spdSayCommand" : "MatiasMelendi 11/17/2016 22:13" } }
