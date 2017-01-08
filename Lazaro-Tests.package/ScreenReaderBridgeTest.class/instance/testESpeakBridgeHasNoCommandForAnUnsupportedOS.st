@@ -5,7 +5,7 @@ self selectAnUsupportedOSAsCurrentOS.
 
 self 
 	should: [ ESpeakBridge new command ]
-	raise: (Error but: MessageNotUnderstood)
+	raise: (Error - MessageNotUnderstood)
 	withExceptionDo: [ :error |
 		self assert: error messageText equals: 'Lázaro does not support this OS'.
 	]
