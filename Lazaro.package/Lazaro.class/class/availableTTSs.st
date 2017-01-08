@@ -1,3 +1,3 @@
 tts
 availableTTSs
-	^ ScreenReaderBridge allSubclasses select: [:bridge | bridge isAvailable ].
+	^ TTSBridge allSubclasses select: [:bridge | bridge isAvailable ].

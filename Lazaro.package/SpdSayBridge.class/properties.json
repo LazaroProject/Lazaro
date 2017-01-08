@@ -10,5 +10,5 @@
 	"name" : "SpdSayBridge",
 	"pools" : [
 		 ],
-	"super" : "ScreenReaderBridge",
+	"super" : "TTSBridge",
 	"type" : "normal" }

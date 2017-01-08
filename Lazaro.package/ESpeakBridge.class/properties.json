@@ -10,5 +10,5 @@
 	"name" : "ESpeakBridge",
 	"pools" : [
 		 ],
-	"super" : "ScreenReaderBridge",
+	"super" : "TTSBridge",
 	"type" : "normal" }

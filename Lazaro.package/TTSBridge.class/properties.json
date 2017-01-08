@@ -8,7 +8,7 @@
 	"instvars" : [
 		"commandLine",
 		"speed" ],
-	"name" : "ScreenReaderBridge",
+	"name" : "TTSBridge",
 	"pools" : [
 		 ],
 	"super" : "Object",

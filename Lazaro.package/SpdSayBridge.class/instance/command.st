@@ -1,3 +1,3 @@
 command
 command
-	^ ScreenReaderCommandProvider spdSayCommand.
+	^ TTSCommandProvider spdSayCommand.

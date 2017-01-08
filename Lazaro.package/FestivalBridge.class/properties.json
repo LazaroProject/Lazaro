@@ -10,5 +10,5 @@
 	"name" : "FestivalBridge",
 	"pools" : [
 		 ],
-	"super" : "ScreenReaderBridge",
+	"super" : "TTSBridge",
 	"type" : "normal" }

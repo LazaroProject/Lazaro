@@ -1,6 +1,6 @@
 command
 command
 	| command |
-	command := ScreenReaderCommandProvider eSpeakCommand.
+	command := TTSCommandProvider eSpeakCommand.
 	self speed isNil ifFalse: [command := command, ' -s ', self speed printString ].
 	^ command
