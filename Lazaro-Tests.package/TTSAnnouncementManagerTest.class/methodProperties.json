@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testItDeliversTheWindowLabelWhenAWindowIsActivated" : "AngelesTellaArena 1/8/2017 20:02",
+		"testItDeliversTheWindowLabelWhenAWindowIsOpened" : "AngelesTellaArena 1/8/2017 19:58",
+		"testWhenAMorphGetFocusItDeliversTheProperMessageForIt" : "AngelesTellaArena 1/8/2017 20:12" } }
