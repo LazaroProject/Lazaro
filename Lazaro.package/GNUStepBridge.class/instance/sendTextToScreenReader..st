@@ -1,3 +1,3 @@
 command
 sendTextToScreenReader: text 
-	^ commandLine waitForCommand: self command, ' "', text, '"'.
+	^ commandLine command: self command, ' "', text, '"'.

@@ -1,3 +1,3 @@
 executing
 sendTextToScreenReader: text 
-	^ commandLine waitForCommand: (TTSCommandProvider commandForReading: text with: self command).
+	^ commandLine command: (TTSCommandProvider commandForReading: text with: self command).
