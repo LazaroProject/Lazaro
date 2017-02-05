@@ -3,6 +3,6 @@
 		 },
 	"instance" : {
 		"testHavingOnlyESpeakTTSLazaroGivesYouAListWithAllAvailableTTSsAndESpeakIsTheOnlyOne" : "AngelesTellaArena 11/28/2016 18:39",
-		"testHavingOnlyFestivalTTSLazaroGivesYouAListWithAllAvailableTTSsAndFestivalIsTheOnlyOne" : "AngelesTellaArena 11/28/2016 18:39",
+		"testHavingOnlyFestivalTTSLazaroGivesYouAListWithAllAvailableTTSsAndFestivalIsTheOnlyOne" : "MatiasMelendi 2/5/2017 14:43",
 		"testLazaroCanSetTheCurrentTTSInPharo" : "MatiasMelendi 11/23/2016 22:55",
 		"testLazaroKnowsWhatIsTheCurrentTTSInPharo" : "MatiasMelendi 11/23/2016 23:00" } }

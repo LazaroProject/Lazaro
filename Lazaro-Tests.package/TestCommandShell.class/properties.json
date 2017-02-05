@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"testCommandLine" ],
-	"name" : "TTSBridgeTest",
+		"lastCalledCommand" ],
+	"name" : "TestCommandShell",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "CommandShell",
 	"type" : "normal" }

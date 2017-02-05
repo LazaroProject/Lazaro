@@ -1,3 +1,3 @@
 executing
 initialize
-	commandLine := ThisOSProcess concreteClass thisOSProcess
+	self withCommandLine: CommandShell new.
