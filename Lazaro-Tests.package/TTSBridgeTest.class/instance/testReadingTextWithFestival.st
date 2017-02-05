@@ -3,7 +3,8 @@ testReadingTextWithFestival
 
 | festival |
 
-festival := FestivalBridge new.
+festival := FestivalBridge newWithCommandLine: testCommandLine.
 
-self skip: 'until I find a way to test it correctly'.
 festival sendTextToScreenReader: 'Hello World!'.
+
+self assert: (testCommandLine wasCalledWithCommand: 'echo "Hello World!" | festival --tts').

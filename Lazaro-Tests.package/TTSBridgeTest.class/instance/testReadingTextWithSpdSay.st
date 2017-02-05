@@ -3,7 +3,8 @@ testReadingTextWithSpdSay
 
 | spdSay |
 
-spdSay := SpdSayBridge new.
+spdSay := SpdSayBridge newWithCommandLine: testCommandLine.
 
-self skip: 'until I find a way to test it correctly'.
 spdSay sendTextToScreenReader: 'Hello World!'.
+
+self assert: (testCommandLine wasCalledWithCommand: 'echo "Hello World!" | spd-say -e').

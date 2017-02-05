@@ -1,3 +1,3 @@
 executing
 initialize
-	self withCommandLine: ExternalOSProcess concreteClass.
+	self withCommandLine: CommandShell new.
