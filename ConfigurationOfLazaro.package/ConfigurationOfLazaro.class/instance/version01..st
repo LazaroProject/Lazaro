@@ -4,7 +4,7 @@ version01: spec
 
 	spec for: #pharo do: [
 		spec blessing: #development.
-		spec repository: 'https://github.com/matiasmelendi/Lazaro.git'.
+		spec repository: 'github://matiasmelendi/Lazaro:master'.
 		spec 
-			package: 'Lazaro' with: 'Lazaro-AngelesTellaArena.5';
-			package: 'Lazaro-Tests' with: 'Lazaro-Tests-AngelesTellaArena.5' ]
+			package: 'Lazaro' with: 'Lazaro-AngelesTellaArena.4';
+			package: 'Lazaro-Tests' with: 'Lazaro-Tests-AngelesTellaArena.4' ]
