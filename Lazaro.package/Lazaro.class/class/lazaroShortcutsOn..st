@@ -1,7 +1,7 @@
 settings
 lazaroShortcutsOn: aBuilder
 	<keymap>
-	#(#NautilusGlobalShortcuts #TextEditor)
+	#(#NautilusGlobalShortcuts #TextEditor #RubTextEditor #TxTextEditorMorph)
 		do: [ :_category | 
 			(aBuilder shortcut: #stopReading)
 				category: _category

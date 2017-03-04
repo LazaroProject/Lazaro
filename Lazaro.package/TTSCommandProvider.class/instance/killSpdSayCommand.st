@@ -1,0 +1,3 @@
+command
+killSpdSayCommand
+	self subclassResponsibility

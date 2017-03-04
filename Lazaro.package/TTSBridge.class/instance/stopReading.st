@@ -1,3 +1,3 @@
 executing
 stopReading
-	self error: 'Está bien, paro de leer'
+	commandLine processCommand: self killCommand
