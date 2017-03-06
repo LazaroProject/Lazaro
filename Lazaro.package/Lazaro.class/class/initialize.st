@@ -1,5 +1,6 @@
 initialization
 initialize
-
-	AvailableTTSs := self availableTTSs.
-	self selectDefaultTTSTool
+	AvailableTTSs := TTSBridge allAvailable.
+	[ Smalltalk tools ttsTool ]
+		on: MessageNotUnderstood
+		do: [ self currentTTS: AvailableTTSs anyOne ]

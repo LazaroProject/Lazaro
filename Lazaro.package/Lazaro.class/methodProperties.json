@@ -1,11 +1,10 @@
 {
 	"class" : {
-		"availableTTSs" : "AngelesTellaArena 1/8/2017 19:36",
+		"availableTTSs" : "MatiasMelendi 3/6/2017 16:03",
 		"currentTTS" : "MatiasMelendi 11/23/2016 22:41",
 		"currentTTS:" : "MatiasMelendi 11/23/2016 22:32",
-		"initialize" : "AngelesTellaArena 11/28/2016 18:15",
+		"initialize" : "MatiasMelendi 3/6/2017 16:08",
 		"lazaroSettingsOn:" : "MatiasMelendi 11/28/2016 21:39",
-		"lazaroShortcutsOn:" : "MatiasMelendi 2/28/2017 01:13",
-		"selectDefaultTTSTool" : "AngelesTellaArena 11/28/2016 18:15" },
+		"lazaroShortcutsOn:" : "MatiasMelendi 2/28/2017 01:13" },
 	"instance" : {
 		 } }
