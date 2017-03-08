@@ -20,7 +20,7 @@
 		"testGnuStepBridgeHasACommandToBeStoppedThroughTheLinuxCommandLine" : "MatiasMelendi 3/4/2017 01:41",
 		"testReadingTextWithEspeak" : "MatiasMelendi 3/4/2017 02:02",
 		"testReadingTextWithFestival" : "MatiasMelendi 3/4/2017 02:02",
-		"testReadingTextWithGNUStep" : "MatiasMelendi 3/4/2017 02:02",
+		"testReadingTextWithGNUStep" : "MatiasMelendi 3/6/2017 14:56",
 		"testReadingTextWithSpdSay" : "MatiasMelendi 3/4/2017 02:02",
 		"testSpdSayBridgeHasACommandToBeStoppedThroughTheLinuxCommandLine" : "MatiasMelendi 3/4/2017 01:42",
 		"testSpdSayBridgeHasACommandToCommunicateByLinuxCommandLine" : "MatiasMelendi 11/17/2016 22:26",

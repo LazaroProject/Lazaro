@@ -6,5 +6,5 @@ version01: spec
 		do: [ spec blessing: #development.
 			spec repository: 'github://matiasmelendi/Lazaro:master'.
 			spec
-				package: 'Lazaro' with: 'Lazaro-MatiasMelendi.7';
-				package: 'Lazaro-Tests' with: 'Lazaro-Tests-MatiasMelendi.5' ]
+				package: 'Lazaro' with: 'Lazaro-MatiasMelendi.11';
+				package: 'Lazaro-Tests' with: 'Lazaro-Tests-MatiasMelendi.7' ]
