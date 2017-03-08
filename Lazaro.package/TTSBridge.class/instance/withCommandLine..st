@@ -1,3 +1,3 @@
-executing
+private
 withCommandLine: aCommandLine
 	commandLine :=  aCommandLine.

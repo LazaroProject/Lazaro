@@ -2,8 +2,11 @@
 	"class" : {
 		"isProviderForCurrentOS" : "MatiasMelendi 5/10/2016 02:26" },
 	"instance" : {
-		"commandForReading:with:" : "MatiasMelendi 11/17/2016 22:24",
+		"commandForReading:with:" : "MatiasMelendi 2/27/2017 20:10",
 		"eSpeakCommand" : "MatiasMelendi 11/17/2016 22:17",
 		"festivalCommand" : "MatiasMelendi 11/17/2016 22:17",
 		"gnuStepCommand" : "MatiasMelendi 11/17/2016 23:37",
+		"killFestivalCommand" : "MatiasMelendi 3/4/2017 00:42",
+		"killGnuStepCommand" : "MatiasMelendi 3/4/2017 01:33",
+		"killSpdSayCommand" : "MatiasMelendi 3/4/2017 01:12",
 		"spdSayCommand" : "MatiasMelendi 11/17/2016 22:17" } }
