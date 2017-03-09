@@ -3,7 +3,8 @@ testReadingTextWithEspeak
 
 | espeak |
 
-espeak := ESpeakBridge new.
+espeak := ESpeakBridge newWithCommandLine: testCommandLine.
 
-self skip: 'until I find a way to test it correctly'.
 espeak sendTextToScreenReader: 'Hello World!'.
+
+self assert: (testCommandLine wasCalledWithCommand: 'echo Hello World! | espeak').

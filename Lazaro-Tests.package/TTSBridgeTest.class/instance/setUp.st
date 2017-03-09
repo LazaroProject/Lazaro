@@ -1,4 +1,5 @@
 support
 setUp
 
-	self selectLinuxAsCurrentOS
+	self selectLinuxAsCurrentOS.
+	testCommandLine := TestCommandShell new.

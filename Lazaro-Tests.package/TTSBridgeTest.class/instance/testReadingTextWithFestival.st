@@ -1,9 +1,6 @@
 as yet unclassified
 testReadingTextWithFestival
-
-| festival |
-
-festival := FestivalBridge new.
-
-self skip: 'until I find a way to test it correctly'.
-festival sendTextToScreenReader: 'Hello World!'.
+	| festival |
+	festival := FestivalBridge newWithCommandLine: testCommandLine.
+	festival sendTextToScreenReader: 'Hello World!'.
+	self assert: (testCommandLine wasCalledWithCommand: 'echo Hello World! | festival --tts')

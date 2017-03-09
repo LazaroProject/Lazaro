@@ -3,5 +3,6 @@
 		 },
 	"instance" : {
 		"command" : "AngelesTellaArena 1/8/2017 19:36",
-		"isAvailable" : "AngelesTellaArena 11/28/2016 18:14",
-		"sendTextToScreenReader:" : "MatiasMelendi 11/22/2016 23:55" } }
+		"isAvailable" : "MatiasMelendi 3/6/2017 14:43",
+		"killCommand" : "MatiasMelendi 3/4/2017 01:32",
+		"sendTextToScreenReader:" : "MatiasMelendi 3/6/2017 13:09" } }

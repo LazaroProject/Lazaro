@@ -1,0 +1,14 @@
+{
+	"category" : "Lazaro-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastCalledCommand" ],
+	"name" : "TestCommandShell",
+	"pools" : [
+		 ],
+	"super" : "CommandShell",
+	"type" : "normal" }
