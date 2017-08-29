@@ -1,0 +1,3 @@
+*Lazaro
+messageForTTS
+	^ self label
