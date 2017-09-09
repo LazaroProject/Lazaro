@@ -1,3 +1,4 @@
 *Lazaro
 messageForTTS
-	^ self buttonLabel printString, ' Currently selected item ' , self selectedItem printString
+
+	^ self defaultContents isString ifTrue: [^ self defaultContents ] ifFalse: [^ self defaultContents messageForTTS ].
