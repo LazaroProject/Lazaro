@@ -1,4 +1,3 @@
 tts
 currentTTS: aTTSClass
-
-	Smalltalk tools ttsTool: aTTSClass new.
+	Smalltalk tools ttsTool: aTTSClass new

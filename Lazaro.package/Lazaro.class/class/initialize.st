@@ -3,4 +3,5 @@ initialize
 	AvailableTTSs := TTSBridge allAvailable.
 	[ Smalltalk tools ttsTool ]
 		on: MessageNotUnderstood
-		do: [ self currentTTS: AvailableTTSs anyOne ]
+		do: [ self currentTTS: AvailableTTSs anyOne. self setupListeners.
+	self setupProcessCleaningTask].
