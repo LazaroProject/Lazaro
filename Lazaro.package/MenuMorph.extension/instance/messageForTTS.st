@@ -1,3 +1,3 @@
 *Lazaro
 messageForTTS
-	^ 'Menu opened' translated
+	^ (titleMorph ifNil: [ self defaultMenuTitle ] ifNotNil: [ titleMorph ]) messageForTTS
