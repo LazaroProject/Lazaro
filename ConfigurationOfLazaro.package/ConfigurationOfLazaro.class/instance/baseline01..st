@@ -2,13 +2,10 @@ accessing
 baseline01: spec
 	<version: '0.1--baseline'>
 	spec
-		for: #pharo
-		do: [ spec
-				project: 'OSProcess'
-				with: [ spec
-						className: #ConfigurationOfOSProcess;
-						repository: 'http://www.squeaksource.com/OSProcess';
-						versionString: #stable ].
+		for: #common
+		do: [ 
+      spec blessing: #baseline.
+      spec repository: 'github://matiasmelendi/Lazaro:master'.
 			spec
 				project: 'CommandShell'
 				with: [ spec
