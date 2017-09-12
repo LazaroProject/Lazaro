@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "MatiasMelendi 9/12/2017 11:17",
+		"tearDown" : "MatiasMelendi 9/12/2017 11:17",
+		"testTheReaderReadsWhenAMorphGetsFocus" : "MatiasMelendi 9/12/2017 11:18",
+		"testTheReaderReadsWhenASelectionGetsFocus" : "MatiasMelendi 9/12/2017 11:18",
+		"testTheReaderStopsWhenAMorphLostFocus" : "MatiasMelendi 9/12/2017 11:18" } }

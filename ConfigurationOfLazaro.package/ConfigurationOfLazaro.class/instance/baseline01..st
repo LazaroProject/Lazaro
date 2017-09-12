@@ -5,7 +5,6 @@ baseline01: spec
 		for: #common
 		do: [ 
       spec blessing: #baseline.
-      spec repository: 'github://matiasmelendi/Lazaro:master'.
 			spec
 				project: 'CommandShell'
 				with: [ spec
