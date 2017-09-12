@@ -1,0 +1,20 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #configuration : 'Lazaro',
+      #directory : '/',
+      #onWarningLog : true,
+      #useLatestMetacello : true,
+      #platforms : [ #pharo ],
+      #version : '0.1'
+    }
+  ],
+  #testing : {
+    #include : {
+      #packages : ['Lazaro-Tests']
+    },  
+    #coverage : { 
+      #packages : ['Lazaro-Tests'] 
+    }
+  }
+}
