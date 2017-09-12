@@ -1,0 +1,14 @@
+{
+	"category" : "Lazaro",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TTSAnnouncementManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

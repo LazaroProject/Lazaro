@@ -2,9 +2,11 @@
 	"class" : {
 		"availableTTSs" : "MatiasMelendi 3/6/2017 16:03",
 		"currentTTS" : "MatiasMelendi 11/23/2016 22:41",
-		"currentTTS:" : "MatiasMelendi 11/23/2016 22:32",
-		"initialize" : "MatiasMelendi 3/6/2017 16:08",
+		"currentTTS:" : "MatiasMelendi 9/10/2017 12:30",
+		"initialize" : "MatiasMelendi 9/10/2017 15:03",
 		"lazaroSettingsOn:" : "MatiasMelendi 11/28/2016 21:39",
-		"lazaroShortcutsOn:" : "MatiasMelendi 2/28/2017 01:13" },
+		"lazaroShortcutsOn:" : "MatiasMelendi 2/28/2017 01:13",
+		"setupListeners" : "MatiasMelendi 9/10/2017 15:09",
+		"setupProcessCleaningTask" : "MatiasMelendi 9/10/2017 15:06" },
 	"instance" : {
 		 } }

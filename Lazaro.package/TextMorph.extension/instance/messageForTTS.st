@@ -1,0 +1,4 @@
+*Lazaro
+messageForTTS
+
+	^ text
