@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"testCommandLine" ],
-	"name" : "TTSAnnouncementManagerTest",
+		 ],
+	"name" : "TestTTSAnnouncementManager",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "TTSAnnouncementManager",
 	"type" : "normal" }

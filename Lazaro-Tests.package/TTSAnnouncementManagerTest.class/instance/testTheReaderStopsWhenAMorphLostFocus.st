@@ -1,6 +1,6 @@
 as yet unclassified
 testTheReaderStopsWhenAMorphLostFocus
 	
-	TTSAnnouncementManager new handleMorphLostFocus.
+	TestTTSAnnouncementManager new handleMorphLostFocus.
 	
-	self assert: (testCommandLine wasCalledWithCommand: bridge killCommand)
+	self assert: (testCommandLine wasCalledWithCommand: TestLazaro currentTTS killCommand)
