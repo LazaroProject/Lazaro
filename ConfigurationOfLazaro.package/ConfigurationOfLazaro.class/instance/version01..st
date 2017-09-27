@@ -4,7 +4,7 @@ version01: spec
 	spec
 		for: #common
 		do: [
-      spec repository: 'github://matiasmelendi/Lazaro:stop_reading_when_morph_lost_focus'.
+      spec repository: 'github://matiasmelendi/Lazaro:master'.
 			spec
-				package: 'Lazaro' with: 'Lazaro-MatiasMelendi.22';
-				package: 'Lazaro-Tests' with: 'Lazaro-Tests-MatiasMelendi.11' ]
+				package: 'Lazaro' with: 'Lazaro-MatiasMelendi.26';
+				package: 'Lazaro-Tests' with: 'Lazaro-Tests-MatiasMelendi.14' ]

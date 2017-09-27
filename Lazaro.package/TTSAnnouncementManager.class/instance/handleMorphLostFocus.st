@@ -1,3 +1,3 @@
 as yet unclassified
 handleMorphLostFocus
-	Smalltalk tools ttsTool stopReading.
+	self reader stopReading

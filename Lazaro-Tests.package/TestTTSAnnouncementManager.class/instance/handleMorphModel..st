@@ -1,4 +1,0 @@
-as yet unclassified
-handleMorphModel: aMorphModelAnnouncement
-	TestLazaro currentTTS
-		sendTextToScreenReader: aMorphModelAnnouncement selection messageForTTS.

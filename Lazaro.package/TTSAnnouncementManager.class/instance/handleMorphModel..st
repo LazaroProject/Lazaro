@@ -1,4 +1,3 @@
 as yet unclassified
 handleMorphModel: aMorphModelAnnouncement
-	Smalltalk tools ttsTool
-		sendTextToScreenReader: aMorphModelAnnouncement selection messageForTTS.
+	self reader sendTextToScreenReader: aMorphModelAnnouncement selection messageForTTS
