@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "AngelesTellaArena 9/12/2017 21:44",
+		"tearDown" : "AngelesTellaArena 9/12/2017 20:56",
+		"testTheReaderReadsWhenAMorphGetsFocus" : "AngelesTellaArena 9/12/2017 20:57",
+		"testTheReaderReadsWhenASelectionGetsFocus" : "AngelesTellaArena 9/12/2017 21:00",
+		"testTheReaderStopsWhenAMorphLostFocus" : "AngelesTellaArena 9/12/2017 21:01" } }

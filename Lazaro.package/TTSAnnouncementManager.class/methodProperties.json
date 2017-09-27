@@ -1,7 +1,9 @@
 {
 	"class" : {
 		"fetch" : "MatiasMelendi 9/10/2017 15:02",
-		"setupListeners" : "MatiasMelendi 9/10/2017 14:42" },
+		"setupListeners" : "MatiasMelendi 9/12/2017 10:23" },
 	"instance" : {
-		"handle:" : "MatiasMelendi 9/11/2017 21:19",
-		"handleMorphModel:" : "MatiasMelendi 9/10/2017 15:08" } }
+		"handle:" : "MatiasMelendi 9/26/2017 22:27",
+		"handleMorphLostFocus" : "MatiasMelendi 9/26/2017 22:28",
+		"handleMorphModel:" : "MatiasMelendi 9/26/2017 22:28",
+		"reader" : "MatiasMelendi 9/26/2017 22:28" } }

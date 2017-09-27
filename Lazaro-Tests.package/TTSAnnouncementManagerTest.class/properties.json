@@ -1,0 +1,14 @@
+{
+	"category" : "Lazaro-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"testCommandLine" ],
+	"name" : "TTSAnnouncementManagerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

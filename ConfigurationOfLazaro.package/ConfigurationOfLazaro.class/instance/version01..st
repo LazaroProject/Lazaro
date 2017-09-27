@@ -4,6 +4,7 @@ version01: spec
 	spec
 		for: #common
 		do: [
+      spec repository: 'github://matiasmelendi/Lazaro:master'.
 			spec
-				package: 'Lazaro' with: 'Lazaro-MatiasMelendi.21';
-				package: 'Lazaro-Tests' with: 'Lazaro-Tests-MatiasMelendi.10' ]
+				package: 'Lazaro' with: 'Lazaro-MatiasMelendi.26';
+				package: 'Lazaro-Tests' with: 'Lazaro-Tests-MatiasMelendi.14' ]
