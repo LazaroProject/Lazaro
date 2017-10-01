@@ -7,7 +7,6 @@
 		"selectWin32AsCurrentOS" : "MatiasMelendi 5/10/2016 02:28",
 		"setUp" : "MatiasMelendi 2/5/2017 14:42",
 		"tearDown" : "MatiasMelendi 11/23/2016 00:03",
-		"testABridgeCanBeConfiguredWithSpeedAndItModifiesTheCommandThatWillBeExecuted" : "MatiasMelendi 11/28/2016 22:43",
 		"testESpeakBridgeHasACommandToCommunicateByLinuxCommandLine" : "MatiasMelendi 11/17/2016 22:25",
 		"testESpeakBridgeHasACommandToCommunicateByWindowsCommandLine" : "MatiasMelendi 5/10/2016 02:46",
 		"testESpeakBridgeHasNoCommandForAnUnsupportedOS" : "AngelesTellaArena 1/8/2017 19:22",
