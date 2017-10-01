@@ -1,6 +1,5 @@
 command
 stopReading
 	commandLine processProxies
-		do: [ :fp | 
-			fp isRunning
-				ifTrue: [ fp processProxy terminate ] ]
+		select: [ :proxy | proxy isExternalProcess & proxy isRunning ]
+		thenDo: [ :fp | fp processProxy terminate ]
