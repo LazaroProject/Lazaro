@@ -11,8 +11,9 @@
 		"project" : "AngelesTellaArena 2/4/2017 15:20",
 		"validate" : "AngelesTellaArena 2/4/2017 15:20" },
 	"instance" : {
-		"baseline01:" : "MatiasMelendi 3/9/2017 15:08",
+		"baseline01:" : "MatiasMelendi 10/17/2017 13:01",
 		"customProjectAttributes" : "AngelesTellaArena 2/4/2017 15:20",
 		"development:" : "MatiasMelendi 3/6/2017 16:45",
 		"project" : "MatiasMelendi 3/6/2017 16:31",
-		"version01:" : "MatiasMelendi 3/6/2017 16:16" } }
+		"stable:" : "MatiasMelendi 10/17/2017 12:43",
+		"version01:" : "MatiasMelendi 10/17/2017 12:46" } }
