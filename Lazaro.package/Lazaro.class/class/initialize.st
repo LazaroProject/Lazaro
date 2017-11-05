@@ -1,7 +1,10 @@
 initialization
 initialize
-	AvailableTTSs := TTSBridge allAvailable.
+	[ AvailableTTSs := TTSBridge allAvailable ]
+		on: Exception
+		do: [  ].	"Nothing"
 	[ Smalltalk tools ttsTool ]
 		on: MessageNotUnderstood
-		do: [ self currentTTS: AvailableTTSs anyOne. self setupListeners.
-	self setupProcessCleaningTask].
+		do: [ self currentTTS: AvailableTTSs anyOne.
+			self setupListeners.
+			self setupProcessCleaningTask ]
