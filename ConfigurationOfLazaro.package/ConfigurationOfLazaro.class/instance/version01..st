@@ -6,4 +6,5 @@ version01: spec
 		do: [ spec repository: 'github://matiasmelendi/Lazaro:master'.
 			spec
 				package: 'Lazaro' with: 'Lazaro-MatiasMelendi.29';
-				package: 'Lazaro-Tests' with: 'Lazaro-Tests-MatiasMelendi.15'. ]
+				package: 'Lazaro-Tests' with: 'Lazaro-Tests-MatiasMelendi.15';
+				package: 'CommandShell-Tests' with: 'CommandShell-Tests-dtl.13' ]
