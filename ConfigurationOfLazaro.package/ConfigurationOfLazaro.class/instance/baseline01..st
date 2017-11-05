@@ -6,8 +6,8 @@ baseline01: spec
 		do: [ spec blessing: #baseline.
 			spec
 				project: 'CommandShell'
-				with: [ spec
-						className: #ConfigurationOfCommandShell;
+				with: [
+					spec
 						repository: 'http://www.squeaksource.com/MetacelloRepository';
-						versionString: #stable.
-						spec package: 'CommandShell-Tests' with: 'CommandShell-Tests-dtl.13'. ]]
+						className: #ConfigurationOfCommandShell;
+						versionString: #stable ] ]
