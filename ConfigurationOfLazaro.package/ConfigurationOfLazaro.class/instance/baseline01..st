@@ -9,4 +9,5 @@ baseline01: spec
 				with: [ spec
 						className: #ConfigurationOfCommandShell;
 						repository: 'http://www.squeaksource.com/MetacelloRepository';
-						versionString: #stable ] ]
+						versionString: #stable.
+						spec package: 'CommandShell-Tests' with: 'CommandShell-Tests-dtl.13'. ]]

@@ -15,6 +15,9 @@ SmalltalkCISpec {
     },  
     #coverage : { 
       #packages : ['Lazaro-Tests'] 
+    },
+    #exclude : {
+      #packages : [ 'CommandShell-Tests' ]
     }
   }
 }
