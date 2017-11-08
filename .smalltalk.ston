@@ -6,7 +6,8 @@ SmalltalkCISpec {
       #onWarningLog : true,
       #useLatestMetacello : true,
       #platforms : [ #pharo ],
-      #version : '0.1'
+      #version : '0.1',
+      #load : ['Tests']
     }
   ],
   #testing : {
@@ -15,9 +16,6 @@ SmalltalkCISpec {
     },  
     #coverage : { 
       #packages : ['Lazaro-Tests'] 
-    },
-    #exclude : {
-      #packages : [ 'CommandShell-Tests' ]
     }
   }
 }
