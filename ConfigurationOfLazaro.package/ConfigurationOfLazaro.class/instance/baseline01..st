@@ -6,17 +6,16 @@ baseline01: spec
 		do: [ 
 			spec blessing: #baseline.
 			
+			spec package: 'VMConstruction-Plugins-AioPlugin' with: [ 
+				spec repository: 'http://www.squeaksource.com/AioPlugin'.
+			].
+			
 			spec project: 'CommandShell' with: [ 
 				spec repository: 'http://www.squeaksource.com/MetacelloRepository'.
 				spec className: 'ConfigurationOfCommandShell'; loads: #('Core').
 			].
-		
-			spec project: 'OSProcess' with: [ 
-				spec repository: 'http://www.squeaksource.com/MetacelloRepository'.
-				spec className: 'ConfigurationOfOSProcess'; loads: #('Core').
-			].
 			
-			spec package: 'Lazaro' with: [ spec requires: #('OSProcess-AIO' 'CommandShell') ].
+			spec package: 'Lazaro' with: [ spec requires: #('CommandShell') ].
 			spec package: 'Lazaro-Tests' with: [ spec requires: #('Lazaro') ].
 			
 			spec group: 'Core' with: #('Lazaro').
