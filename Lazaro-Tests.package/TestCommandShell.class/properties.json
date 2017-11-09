@@ -10,5 +10,5 @@
 	"name" : "TestCommandShell",
 	"pools" : [
 		 ],
-	"super" : "CommandShell",
+	"super" : "Object",
 	"type" : "normal" }
