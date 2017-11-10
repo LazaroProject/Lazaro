@@ -6,10 +6,6 @@ baseline01: spec
 		do: [ 
 			spec blessing: #baseline.
 			
-			spec package: 'VMConstruction-Plugins-AioPlugin' with: [ 
-				spec repository: 'http://www.squeaksource.com/AioPlugin'.
-			].
-			
 			spec project: 'CommandShell' with: [ 
 				spec repository: 'http://www.squeaksource.com/MetacelloRepository'.
 				spec className: 'ConfigurationOfCommandShell'; loads: #('Core').

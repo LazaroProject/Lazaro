@@ -9,5 +9,8 @@ os:
 smalltalk:
   - Pharo-5.0
 
+env:
+- SMALLTALK_CI_TIMEOUT=40
+
 install: 
   - sudo apt-get install espeak gnustep-gui-runtime festival speech-dispatcher
