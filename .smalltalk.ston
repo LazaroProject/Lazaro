@@ -3,7 +3,7 @@ SmalltalkCISpec {
     SCIMetacelloLoadSpec {
       #configuration : 'Lazaro',
       #directory : '/',
-      #onWarningLog : false,
+      #onWarningLog : true,
       #useLatestMetacello : true,
       #platforms : [ #pharo ],
       #version : '0.1',
