@@ -1,22 +1,19 @@
 {
-	"instance" : {
-		"project" : "MatiasMelendi 3/6/2017 16:31",
-		"customProjectAttributes" : "AngelesTellaArena 2/4/2017 15:20",
-		"version01:" : "MatiasMelendi 11/9/2017 21:55",
-		"baseline01:" : "MatiasMelendi 11/9/2017 21:54",
-		"stable:" : "MatiasMelendi 11/8/2017 08:31",
-		"development:" : "MatiasMelendi 11/8/2017 08:31"
-	},
 	"class" : {
-		"load" : "AngelesTellaArena 2/4/2017 15:20",
-		"baseConfigurationClassIfAbsent:" : "AngelesTellaArena 2/4/2017 15:20",
 		"DevelopmentSupport" : "AngelesTellaArena 2/4/2017 15:20",
+		"baseConfigurationClassIfAbsent:" : "AngelesTellaArena 2/4/2017 15:20",
 		"ensureMetacello" : "AngelesTellaArena 2/4/2017 15:20",
-		"loadDevelopment" : "AngelesTellaArena 2/4/2017 15:20",
-		"isMetacelloConfig" : "AngelesTellaArena 2/4/2017 15:20",
 		"ensureMetacelloBaseConfiguration" : "AngelesTellaArena 2/4/2017 15:20",
+		"isMetacelloConfig" : "AngelesTellaArena 2/4/2017 15:20",
+		"load" : "AngelesTellaArena 2/4/2017 15:20",
 		"loadBleedingEdge" : "AngelesTellaArena 2/4/2017 15:20",
-		"validate" : "AngelesTellaArena 2/4/2017 15:20",
-		"project" : "AngelesTellaArena 2/4/2017 15:20"
-	}
-}
+		"loadDevelopment" : "AngelesTellaArena 2/4/2017 15:20",
+		"project" : "AngelesTellaArena 2/4/2017 15:20",
+		"validate" : "AngelesTellaArena 2/4/2017 15:20" },
+	"instance" : {
+		"baseline01:" : "MatiasMelendi 11/11/2017 17:56",
+		"customProjectAttributes" : "AngelesTellaArena 2/4/2017 15:20",
+		"development:" : "MatiasMelendi 11/8/2017 08:31",
+		"project" : "MatiasMelendi 3/6/2017 16:31",
+		"stable:" : "MatiasMelendi 11/8/2017 08:31",
+		"version01:" : "MatiasMelendi 11/11/2017 17:56" } }

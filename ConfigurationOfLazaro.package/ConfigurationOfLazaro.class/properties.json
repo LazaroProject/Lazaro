@@ -1,15 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "Object",
 	"category" : "ConfigurationOfLazaro",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
-		"LastVersionLoad"
-	],
+		"LastVersionLoad" ],
+	"commentStamp" : "",
 	"instvars" : [
-		"project"
-	],
+		"project" ],
 	"name" : "ConfigurationOfLazaro",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
