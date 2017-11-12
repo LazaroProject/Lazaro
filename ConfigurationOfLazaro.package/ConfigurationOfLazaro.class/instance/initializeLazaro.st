@@ -1,4 +1,3 @@
 accessing
 initializeLazaro
-
-	Lazaro initialize
+	Smalltalk at: #OSProcess ifPresent: [ :cl | Lazaro initialize ]

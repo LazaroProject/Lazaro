@@ -7,9 +7,7 @@ baseline01: spec
 			spec
 				project: 'OSProcess'
 				with: [ spec repository: 'http://www.squeaksource.com/MetacelloRepository'.
-					spec
-						className: 'ConfigurationOfOSProcess';
-						versionString: '4.4.5' ].
+					spec className: 'ConfigurationOfOSProcess'; loads: #('Core') ].
 			spec
 				project: 'CommandShell'
 				with: [ spec repository: 'http://www.squeaksource.com/MetacelloRepository'.
@@ -19,4 +17,4 @@ baseline01: spec
 			spec package: 'Lazaro' with: [ spec requires: #('OSProcess' 'CommandShell') ].
 			spec package: 'Lazaro-Tests' with: [ spec requires: #('OSProcess' 'CommandShell' 'Lazaro') ].
 			spec group: 'Core' with: #('Lazaro').
-			spec group: 'Tests' with: #('Lazaro-Tests') ]
+			spec group: 'Tests' with: #('Lazaro' 'Lazaro-Tests') ]

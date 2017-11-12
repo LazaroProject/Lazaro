@@ -1,3 +1,3 @@
 as yet unclassified
 testSpdSayBridgeHasACommandToBeStoppedThroughTheLinuxCommandLine
-	self assert: SpdSayBridge new killCommand equals: 'spd-say -S'
+	self assert: (SpdSayBridge newWithCommandLine: testCommandLine) killCommand equals: 'spd-say -S'

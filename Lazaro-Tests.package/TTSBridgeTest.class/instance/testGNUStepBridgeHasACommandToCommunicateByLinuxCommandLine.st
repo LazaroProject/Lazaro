@@ -1,4 +1,3 @@
 as yet unclassified
 testGNUStepBridgeHasACommandToCommunicateByLinuxCommandLine
-
-self assert: GNUStepBridge new command equals: 'say'
+	self assert: (GNUStepBridge newWithCommandLine: testCommandLine) command equals: 'say'
