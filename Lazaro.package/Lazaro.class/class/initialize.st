@@ -5,6 +5,6 @@ initialize
 		do: [  ].	"Nothing"
 	[ Smalltalk tools ttsTool ]
 		on: MessageNotUnderstood
-		do: [ self currentTTS: AvailableTTSs anyOne.
+		do: [ self currentTTS: NullBridge.
 			self setupListeners.
 			self setupProcessCleaningTask ]

@@ -1,0 +1,14 @@
+{
+	"category" : "Lazaro",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NullBridge",
+	"pools" : [
+		 ],
+	"super" : "TTSBridge",
+	"type" : "normal" }
