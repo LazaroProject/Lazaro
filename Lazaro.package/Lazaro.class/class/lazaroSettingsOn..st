@@ -1,8 +1,8 @@
 settings
 lazaroSettingsOn: aBuilder
-	self initialize.
-	
 	<systemsettings>
+	
+	self initialize.
 	(aBuilder pickOne: #currentTTS)
 		label: 'Lazaro';
 		parent: #SCM;
