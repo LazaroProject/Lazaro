@@ -10,7 +10,7 @@ smalltalk:
   - Pharo-6.0
 
 env:
-- SMALLTALK_CI_TIMEOUT=40
-
-install: 
-  - sudo apt-get install espeak gnustep-gui-runtime festival speech-dispatcher
+  - SMALLTALK_CI_TIMEOUT=40
+cache:
+  directories:
+    - $SMALLTALK_CI_CACHE

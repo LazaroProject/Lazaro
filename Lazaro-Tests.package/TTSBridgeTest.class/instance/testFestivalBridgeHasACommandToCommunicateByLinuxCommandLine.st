@@ -1,4 +1,3 @@
 as yet unclassified
 testFestivalBridgeHasACommandToCommunicateByLinuxCommandLine
-
-self assert: FestivalBridge new command equals: 'festival --tts'
+	self assert: (FestivalBridge newWithCommandLine: testCommandLine) command equals: 'festival --tts'

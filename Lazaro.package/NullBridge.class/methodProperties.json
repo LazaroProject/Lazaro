@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"command" : "MatiasMelendi 11/12/2017 08:29",
+		"initialize" : "MatiasMelendi 11/12/2017 08:38",
+		"isAvailable" : "MatiasMelendi 11/12/2017 08:28",
+		"killCommand" : "MatiasMelendi 11/12/2017 08:29",
+		"sendTextToScreenReader:" : "MatiasMelendi 11/12/2017 20:02",
+		"stopReading" : "MatiasMelendi 11/12/2017 20:02" } }
