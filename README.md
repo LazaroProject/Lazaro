@@ -4,3 +4,8 @@ A set of adapters for most of the famous and popular screen readers. This packag
 # WIP
 
 We are Lazaro, we don't forgive, we don't forget, *expect us*
+
+
+# Contact
+
+lazaro.smalltalk@gmail.com
