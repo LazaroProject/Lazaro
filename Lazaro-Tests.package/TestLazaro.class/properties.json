@@ -1,14 +1,13 @@
 {
+	"commentStamp" : "",
+	"super" : "Lazaro",
 	"category" : "Lazaro-Tests",
 	"classinstvars" : [
-		"currentTTS" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+		"currentTTS"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "TestLazaro",
-	"pools" : [
-		 ],
-	"super" : "Lazaro",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "Lazaro",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "Win32TTSCommandProvider",
-	"pools" : [
-		 ],
 	"super" : "TTSCommandProvider",
-	"type" : "normal" }
+	"category" : "Lazaro",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Win32TTSCommandProvider",
+	"type" : "normal"
+}

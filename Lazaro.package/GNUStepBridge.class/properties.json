@@ -1,14 +1,11 @@
 {
-	"category" : "Lazaro",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "GNUStepBridge",
-	"pools" : [
-		 ],
 	"super" : "TTSBridge",
-	"type" : "normal" }
+	"category" : "Lazaro",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GNUStepBridge",
+	"type" : "normal"
+}

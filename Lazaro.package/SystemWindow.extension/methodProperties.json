@@ -1,5 +1,6 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"messageForTTS" : "MatiasMelendi 3/9/2017 16:21" } }
+		"messageForTTS" : "MatiasMelendi 3/9/2017 16:21"
+	},
+	"class" : { }
+}

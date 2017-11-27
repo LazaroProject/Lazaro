@@ -1,6 +1,7 @@
 {
-	"class" : {
-		 },
 	"instance" : {
-		"defaultMenuTitle" : "MatiasMelendi 9/10/2017 11:16",
-		"messageForTTS" : "MatiasMelendi 9/10/2017 11:17" } }
+		"messageForTTS" : "MatiasMelendi 9/10/2017 11:17",
+		"defaultMenuTitle" : "MatiasMelendi 9/10/2017 11:16"
+	},
+	"class" : { }
+}
