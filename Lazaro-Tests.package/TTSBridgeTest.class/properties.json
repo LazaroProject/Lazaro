@@ -1,14 +1,13 @@
 {
-	"category" : "Lazaro-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"testCommandLine" ],
-	"name" : "TTSBridgeTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "Lazaro-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"testCommandLine"
+	],
+	"name" : "TTSBridgeTest",
+	"type" : "normal"
+}

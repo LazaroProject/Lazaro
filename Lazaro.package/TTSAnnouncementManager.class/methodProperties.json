@@ -1,9 +1,12 @@
 {
-	"class" : {
-		"fetch" : "MatiasMelendi 9/10/2017 15:02",
-		"setupListeners" : "MatiasMelendi 9/12/2017 10:23" },
 	"instance" : {
-		"handle:" : "MatiasMelendi 9/26/2017 22:27",
+		"reader" : "MatiasMelendi 9/26/2017 22:28",
 		"handleMorphLostFocus" : "MatiasMelendi 9/26/2017 22:28",
-		"handleMorphModel:" : "MatiasMelendi 9/26/2017 22:28",
-		"reader" : "MatiasMelendi 9/26/2017 22:28" } }
+		"handle:" : "MatiasMelendi 9/26/2017 22:27",
+		"handleMorphModel:" : "MatiasMelendi 9/26/2017 22:28"
+	},
+	"class" : {
+		"setupListeners" : "MatiasMelendi 9/12/2017 10:23",
+		"fetch" : "MatiasMelendi 9/10/2017 15:02"
+	}
+}

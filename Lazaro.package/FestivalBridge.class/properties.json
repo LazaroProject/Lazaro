@@ -1,14 +1,11 @@
 {
-	"category" : "Lazaro",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "FestivalBridge",
-	"pools" : [
-		 ],
 	"super" : "TTSBridge",
-	"type" : "normal" }
+	"category" : "Lazaro",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FestivalBridge",
+	"type" : "normal"
+}

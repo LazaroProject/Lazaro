@@ -1,14 +1,11 @@
 {
-	"category" : "Lazaro",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SpdSayBridge",
-	"pools" : [
-		 ],
 	"super" : "TTSBridge",
-	"type" : "normal" }
+	"category" : "Lazaro",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SpdSayBridge",
+	"type" : "normal"
+}
