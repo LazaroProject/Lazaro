@@ -1,3 +1,0 @@
-as yet unclassified
-handleMorphModel: aMorphModelAnnouncement
-	self reader sendTextToScreenReader: aMorphModelAnnouncement selection messageForTTS
