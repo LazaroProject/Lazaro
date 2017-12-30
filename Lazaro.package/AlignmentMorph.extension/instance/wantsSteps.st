@@ -1,0 +1,4 @@
+*Lazaro
+wantsSteps
+
+	^ true

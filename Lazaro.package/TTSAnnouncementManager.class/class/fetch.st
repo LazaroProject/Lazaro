@@ -1,6 +1,4 @@
-as yet unclassified
+actions
 fetch
-	instance
-		ifNil: [ instance := self new.
-			self setupListeners ].
+	instance ifNil: [ instance := self new. self setupListeners ].
 	^ instance

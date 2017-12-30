@@ -1,12 +1,13 @@
 {
 	"instance" : {
+		"handle:" : "MatiasMelendi 12/10/2017 12:08",
 		"reader" : "MatiasMelendi 9/26/2017 22:28",
-		"handleMorphLostFocus" : "MatiasMelendi 9/26/2017 22:28",
-		"handle:" : "MatiasMelendi 9/26/2017 22:27",
-		"handleMorphModel:" : "MatiasMelendi 9/26/2017 22:28"
+		"handleMorphModel:" : "MatiasMelendi 12/10/2017 12:08",
+		"handleWindowOpened:" : "MatiasMelendi 12/23/2017 15:51",
+		"handleMorphLostFocus" : "MatiasMelendi 9/26/2017 22:28"
 	},
 	"class" : {
-		"setupListeners" : "MatiasMelendi 9/12/2017 10:23",
-		"fetch" : "MatiasMelendi 9/10/2017 15:02"
+		"setupListeners" : "MatiasMelendi 12/10/2017 12:22",
+		"fetch" : "MatiasMelendi 12/10/2017 12:33"
 	}
 }
