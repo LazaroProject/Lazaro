@@ -6,5 +6,4 @@ keyStrokeArrowDown: event
 		ifFalse: [ ^ self ].
 	self resetFunction.
 	self selectionStrategy selectRowIndex: rowIndex + 1 event: event.
-	Smalltalk tools ttsTool stopReading.
-	self readSelectedElement: rowIndex + 1.
+	self readSelectedElement: rowIndex + 1

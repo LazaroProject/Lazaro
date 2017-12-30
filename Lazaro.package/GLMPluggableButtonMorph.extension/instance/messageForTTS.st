@@ -1,4 +1,4 @@
 *Lazaro
 messageForTTS
 
-	^ self label
+	^ self model title
