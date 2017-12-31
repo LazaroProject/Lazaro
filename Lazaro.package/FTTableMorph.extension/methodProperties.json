@@ -1,8 +1,10 @@
 {
 	"instance" : {
-		"readSelectedElement:" : "MatiasMelendi 12/2/2017 15:12",
+		"takesKeyboardFocus" : "MatiasMelendi 12/31/2017 16:51",
+		"keyStrokeArrowDown:" : "MatiasMelendi 12/2/2017 14:43",
 		"keyStrokeArrowUp:" : "MatiasMelendi 12/2/2017 14:43",
-		"keyStrokeArrowDown:" : "MatiasMelendi 12/2/2017 14:43"
+		"readSelectedElement:" : "MatiasMelendi 12/2/2017 15:12",
+		"wantsKeyboardFocus" : "MatiasMelendi 12/31/2017 17:25"
 	},
 	"class" : { }
 }
