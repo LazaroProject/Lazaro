@@ -1,6 +1,8 @@
 {
 	"instance" : {
-		"messageForTTS" : "MatiasMelendi 12/2/2017 15:15"
+		"messageForTTS" : "MatiasMelendi 12/2/2017 15:15",
+		"wantsKeyboardFocus" : "MatiasMelendi 12/31/2017 17:14",
+		"takesKeyboardFocus" : "MatiasMelendi 12/31/2017 17:10"
 	},
 	"class" : { }
 }

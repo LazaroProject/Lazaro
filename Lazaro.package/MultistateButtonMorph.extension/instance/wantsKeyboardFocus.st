@@ -1,0 +1,3 @@
+*Lazaro
+wantsKeyboardFocus
+	^ true
