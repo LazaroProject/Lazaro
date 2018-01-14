@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "TTSCommandProvider",
 	"category" : "Lazaro",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "UnixTTSCommandProvider",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "TTSCommandProvider",
+	"type" : "normal" }

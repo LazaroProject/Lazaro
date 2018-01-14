@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "Object",
 	"category" : "Lazaro",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
-		"AvailableTTSs"
-	],
-	"instvars" : [ ],
+		"AvailableTTSs" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "Lazaro",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

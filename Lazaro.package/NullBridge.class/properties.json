@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "TTSBridge",
 	"category" : "Lazaro",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "NullBridge",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "TTSBridge",
+	"type" : "normal" }
