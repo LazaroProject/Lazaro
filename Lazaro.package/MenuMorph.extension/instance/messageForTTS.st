@@ -1,3 +1,3 @@
 *Lazaro
 messageForTTS
-	^ (titleMorph ifNil: [ self defaultMenuTitle ] ifNotNil: [ titleMorph ]) messageForTTS
+	^ titleMorph ifNotNil: [ titleMorph messageForTTS ] ifNil: [ '' ]
