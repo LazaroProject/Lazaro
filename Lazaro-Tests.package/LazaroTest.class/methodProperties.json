@@ -1,7 +1,0 @@
-{
-	"instance" : {
-		"testHavingOnlyESpeakTTSLazaroGivesYouAListWithAllAvailableTTSsAndESpeakIsTheOnlyOne" : "MatiasMelendi 11/12/2017 11:58",
-		"testHavingOnlyFestivalTTSLazaroGivesYouAListWithAllAvailableTTSsAndFestivalIsTheOnlyOne" : "MatiasMelendi 9/26/2017 22:30"
-	},
-	"class" : { }
-}
