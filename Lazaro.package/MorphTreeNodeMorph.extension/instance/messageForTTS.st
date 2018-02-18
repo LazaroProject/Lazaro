@@ -1,3 +1,3 @@
 *Lazaro
 messageForTTS
-	^ complexContents asString printString withoutPrefix: '#'
+	^ complexContents name
