@@ -1,0 +1,4 @@
+*Lazaro
+nextMorphInWindow
+
+	super nextMorphInWindow
