@@ -1,7 +1,11 @@
 {
 	"instance" : {
+		"takesKeyboardFocus" : "gvc 1/11/2007 12:27",
+		"navigationPriority" : "MatiasMelendi 3/4/2018 19:14",
+		"initialize" : "MatiasMelendi 3/4/2018 19:12",
 		"messageForTTS" : "MatiasMelendi 9/10/2017 09:08",
-		"navigationPriority" : "MatiasMelendi 2/18/2018 14:38"
+		"navigationPriority:" : "MatiasMelendi 3/4/2018 19:16",
+		"sortSubmorphsByNavigationPriority" : "MatiasMelendi 3/4/2018 17:46"
 	},
 	"class" : { }
 }
