@@ -1,5 +1,6 @@
 initialization
 initialize
+	self addNavigationPriorityToMorph.
 	[ AvailableTTSs := TTSBridge allAvailable ]
 		on: Exception
 		do: [  ].	"Nothing"

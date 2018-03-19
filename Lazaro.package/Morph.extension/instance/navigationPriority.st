@@ -1,5 +1,4 @@
 *Lazaro
 navigationPriority
-	"This value will be used for sorting morphs when navigating a window"
-
+	"A default value is added here to avoid conflicts with already instantiated morphs"
 	^ navigationPriority ifNil: [ 0 ] ifNotNil: [ navigationPriority ]
