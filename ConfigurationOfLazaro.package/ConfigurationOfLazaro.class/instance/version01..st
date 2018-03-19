@@ -7,6 +7,6 @@ version01: spec
 			spec project: 'OSProcess' with: [ spec versionString: #stable ].
 			spec project: 'CommandShell' with: [ spec versionString: #stable ].
 			spec
-				package: 'Lazaro' with: 'Lazaro-MatiasMelendi.43';
+				package: 'Lazaro' with: 'Lazaro-MatiasMelendi.44';
 				package: 'Lazaro-Tests' with: 'Lazaro-Tests-MatiasMelendi.23'.
 			spec postLoadDoIt: #initializeLazaro ]
