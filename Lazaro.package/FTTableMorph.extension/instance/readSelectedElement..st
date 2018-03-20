@@ -6,6 +6,6 @@ readSelectedElement: selectedElementIndex
 	
 	selectedElement := (self dataSource realElementAt: selectedElementIndex).
 	
-	readString := (selectedElement respondsTo: #selector) ifTrue: [ selectedElement selector printString ] ifFalse: [ selectedElement printString withoutQuoting ].
+	readString := (selectedElement respondsTo: #selector) ifTrue: [ selectedElement selector ] ifFalse: [ selectedElement asString ].
 
 	Smalltalk tools ttsTool sendTextToScreenReader: (readString withoutPrefix: '#')

@@ -1,6 +1,7 @@
 {
 	"instance" : {
-		"messageForTTS" : "MatiasMelendi 9/9/2017 11:24"
+		"messageForTTS" : "MatiasMelendi 9/9/2017 11:24",
+		"navigationPriority" : "MatiasMelendi 3/4/2018 18:45"
 	},
 	"class" : { }
 }
