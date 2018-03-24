@@ -5,7 +5,6 @@ openAsIsIn: aWorld
 	
 	self playOpenSound.
 	aWorld addMorph: self.
-	self activate.
 	aWorld startSteppingSubmorphsOf: self.
 	self keyboardFocusChange: true.
 	self announceOpened.
