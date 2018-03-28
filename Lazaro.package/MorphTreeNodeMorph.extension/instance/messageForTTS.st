@@ -1,3 +1,3 @@
 *Lazaro
 messageForTTS
-	^ complexContents name
+	^ complexContents asString
