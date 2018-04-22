@@ -38,7 +38,7 @@ Lázaro: lector de pantalla para Pharo
 
 Intención inicial: adaptar lectores de pantalla existentes
 
-<img src="http://i0.kym-cdn.com/photos/images/original/000/862/438/a8d.jpg"/>
+<img src="http://i0.kym-cdn.com/photos/images/original/000/862/438/a8d.jpg" width="200" height="250"/>
 
 +++
 
@@ -56,7 +56,7 @@ Lázaro tiene 2 funciones básicas:
 
 # ¿Preguntas?
 
-<img src="https://img.clipartfest.com/4080354b8aa40b5c97e249598b4604f9_question-mark-icon-png-clipart-question-clipart-png_1500-1500.png" width="250" height="250"/>
+<img src="https://vignette.wikia.nocookie.net/walkingdead/images/f/fd/Question-mark-4.jpg" width="250" height="250"/>
 
 ---
 
