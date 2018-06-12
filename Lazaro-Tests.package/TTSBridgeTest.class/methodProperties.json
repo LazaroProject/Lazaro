@@ -5,7 +5,7 @@
 		"testReadingTextWithSpdSay" : "MatiasMelendi 11/26/2017 21:32",
 		"setUp" : "MatiasMelendi 11/27/2017 10:00",
 		"testFestivalBridgeHasACommandToCommunicateByLinuxCommandLine" : "MatiasMelendi 11/12/2017 12:03",
-		"testESpeakHasACommandToBeStoppedByLinuxCommandLineButItShouldNotBeUsed" : "MatiasMelendi 11/12/2017 12:02",
+		"testESpeakHasACommandToBeStoppedByLinuxCommandLineButItShouldNotBeUsed" : "MatiasMelendi 6/11/2018 21:41",
 		"testSpdSayBridgeHasNoCommandToCommunicateByWindowsCommandLine" : "MatiasMelendi 11/12/2017 12:05",
 		"tearDown" : "MatiasMelendi 11/23/2016 00:03",
 		"selectAnUsupportedOSAsCurrentOS" : "MatiasMelendi 5/10/2016 02:40",
