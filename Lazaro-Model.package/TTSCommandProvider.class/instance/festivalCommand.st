@@ -1,0 +1,4 @@
+command
+festivalCommand
+
+	self subclassResponsibility 

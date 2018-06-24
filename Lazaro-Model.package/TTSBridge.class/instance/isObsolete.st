@@ -1,0 +1,3 @@
+settings-private
+isObsolete
+	^ false

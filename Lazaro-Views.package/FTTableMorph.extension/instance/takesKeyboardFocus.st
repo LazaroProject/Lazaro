@@ -1,0 +1,3 @@
+*Lazaro-Views
+takesKeyboardFocus
+	^ false

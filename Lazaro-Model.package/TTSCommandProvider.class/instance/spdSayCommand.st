@@ -1,0 +1,4 @@
+command
+spdSayCommand
+
+	self subclassResponsibility 

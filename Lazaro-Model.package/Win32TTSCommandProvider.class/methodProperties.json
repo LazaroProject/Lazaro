@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"commandForReading:with:" : "MatiasMelendi 11/17/2016 22:25",
+		"killFestivalCommand" : "MatiasMelendi 3/4/2017 17:42",
+		"festivalCommand" : "MatiasMelendi 11/17/2016 21:34",
+		"gnuStepCommand" : "MatiasMelendi 11/17/2016 23:39",
+		"killGnuStepCommand" : "MatiasMelendi 3/4/2017 17:42",
+		"killSpdSayCommand" : "MatiasMelendi 3/4/2017 17:41",
+		"spdSayCommand" : "MatiasMelendi 11/17/2016 22:13",
+		"eSpeakCommand" : "MatiasMelendi 5/10/2016 01:57"
+	},
+	"class" : {
+		"isProviderForCurrentOS" : "MatiasMelendi 5/10/2016 01:54"
+	}
+}

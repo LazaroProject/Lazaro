@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"takesKeyboardFocus" : "gvc 1/11/2007 12:27",
+		"navigationPriority" : "MatiasMelendi 3/19/2018 19:49",
+		"initialize" : "MatiasMelendi 3/4/2018 19:12",
+		"messageForTTS" : "MatiasMelendi 9/10/2017 09:08",
+		"privateAddAllMorphs:atIndex:" : "MatiasMelendi 3/4/2018 17:48",
+		"privateAddMorph:atIndex:" : "MatiasMelendi 3/4/2018 17:48",
+		"navigationPriority:" : "MatiasMelendi 3/4/2018 19:16",
+		"sortSubmorphsByNavigationPriority" : "MatiasMelendi 3/4/2018 21:38"
+	},
+	"class" : { }
+}

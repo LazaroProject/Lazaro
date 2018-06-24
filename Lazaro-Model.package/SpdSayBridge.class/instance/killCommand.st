@@ -1,0 +1,3 @@
+command
+killCommand
+ ^ TTSCommandProvider killSpdSayCommand
