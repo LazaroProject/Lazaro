@@ -7,9 +7,9 @@ version01: spec
 			spec project: 'OSProcess' with: [ spec versionString: #stable ].
 			spec project: 'CommandShell' with: [ spec versionString: #stable ].
 			spec
-				package: 'Lazaro-Model' with: 'Lazaro-Model-MatiasMelendi.1';
-				package: 'Lazaro-Tools' with: 'Lazaro-Tools-MatiasMelendi.1';
-				package: 'Lazaro-Events-Management' with: 'Lazaro-Events-Management-MatiasMelendi.1';
-				package: 'Lazaro-Views' with: 'Lazaro-Views-MatiasMelendi.1';
-				package: 'Lazaro-Tests' with: 'Lazaro-Tests-MatiasMelendi.25'.
+				package: 'Lazaro-Model';
+				package: 'Lazaro-Tools';
+				package: 'Lazaro-Events-Management';
+				package: 'Lazaro-Views';
+				package: 'Lazaro-Tests'.
 			spec postLoadDoIt: #initializeLazaro ]
