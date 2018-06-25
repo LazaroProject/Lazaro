@@ -17,5 +17,5 @@ baseline01: spec
 			spec package: 'Lazaro-Model' with: [ spec requires: #('OSProcess' 'CommandShell') ].
 			spec package: 'Lazaro-Tools' with: [ spec requires: #('Lazaro-Model' 'Lazaro-Events-Management') ].
 			spec package: 'Lazaro-Tests' with: [ spec requires: #('OSProcess' 'CommandShell' 'Lazaro-Events-Management' 'Lazaro-Model' 'Lazaro-Tools' 'Lazaro-Views') ].
-			spec group: 'Core' with: #('Lazaro-Model' 'Lazaro-Tools' 'Lazaro-Events-Management' 'Lazaro-Views').
+			spec group: 'Core' with: #('Lazaro-Model' 'Lazaro-Events-Management' 'Lazaro-Tools' 'Lazaro-Views').
 			spec group: 'Tests' with: #('Lazaro-Model' 'Lazaro-Events-Management' 'Lazaro-Tools' 'Lazaro-Views' 'Lazaro-Tests') ]

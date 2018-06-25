@@ -8,8 +8,8 @@ version01: spec
 			spec project: 'CommandShell' with: [ spec versionString: #stable ].
 			spec
 				package: 'Lazaro-Model';
-				package: 'Lazaro-Tools';
 				package: 'Lazaro-Events-Management';
+				package: 'Lazaro-Tools';
 				package: 'Lazaro-Views';
 				package: 'Lazaro-Tests'.
 			spec postLoadDoIt: #initializeLazaro ]
