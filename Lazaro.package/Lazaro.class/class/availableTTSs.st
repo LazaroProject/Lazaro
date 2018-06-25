@@ -1,3 +1,0 @@
-tts
-availableTTSs
-	^ AvailableTTSs 

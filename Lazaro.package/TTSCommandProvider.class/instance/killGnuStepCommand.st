@@ -1,3 +1,0 @@
-command
-killGnuStepCommand
-	self subclassResponsibility

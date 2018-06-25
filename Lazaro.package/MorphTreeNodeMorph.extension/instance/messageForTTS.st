@@ -1,3 +1,0 @@
-*Lazaro
-messageForTTS
-	^ complexContents asString

@@ -1,3 +1,0 @@
-command
-killSpdSayCommand
-	self subclassResponsibility

@@ -1,3 +1,0 @@
-command
-killFestivalCommand
-	self subclassResponsibility

@@ -1,3 +1,0 @@
-command
-command
-	^ TTSCommandProvider gnuStepCommand.

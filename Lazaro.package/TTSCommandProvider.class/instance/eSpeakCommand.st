@@ -1,4 +1,0 @@
-command
-eSpeakCommand
-
-	self subclassResponsibility 

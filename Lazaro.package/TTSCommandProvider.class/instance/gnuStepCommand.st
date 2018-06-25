@@ -1,4 +1,0 @@
-command
-gnuStepCommand
-
-	self subclassResponsibility 
