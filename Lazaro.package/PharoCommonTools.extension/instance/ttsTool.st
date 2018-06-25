@@ -1,3 +1,0 @@
-*Lazaro
-ttsTool
-	^ self tts

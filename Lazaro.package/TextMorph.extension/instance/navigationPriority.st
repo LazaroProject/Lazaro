@@ -1,4 +1,0 @@
-*Lazaro
-navigationPriority
-
-	^ 11

@@ -1,3 +1,0 @@
-*Lazaro
-takesKeyboardFocus
-	^ false

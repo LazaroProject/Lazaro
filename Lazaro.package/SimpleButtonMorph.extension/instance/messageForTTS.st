@@ -1,4 +1,0 @@
-*Lazaro
-messageForTTS
-
-	^ self helpText
