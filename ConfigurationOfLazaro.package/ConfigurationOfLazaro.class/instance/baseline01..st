@@ -14,7 +14,9 @@ baseline01: spec
 					spec
 						className: 'ConfigurationOfCommandShell';
 						loads: #('Core') ].
+			spec package: 'Lazaro-Views'.
 			spec package: 'Lazaro-Model' with: [ spec requires: #('OSProcess' 'CommandShell') ].
+			spec package: 'Lazaro-Events-Management' with: [ spec requires: #('OSProcess' 'CommandShell') ].
 			spec package: 'Lazaro-Tools' with: [ spec requires: #('Lazaro-Model' 'Lazaro-Events-Management') ].
 			spec package: 'Lazaro-Tests' with: [ spec requires: #('OSProcess' 'CommandShell' 'Lazaro-Events-Management' 'Lazaro-Model' 'Lazaro-Tools' 'Lazaro-Views') ].
 			spec group: 'Core' with: #('Lazaro-Model' 'Lazaro-Events-Management' 'Lazaro-Tools' 'Lazaro-Views').
