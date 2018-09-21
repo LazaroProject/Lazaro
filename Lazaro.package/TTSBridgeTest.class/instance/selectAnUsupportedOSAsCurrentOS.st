@@ -1,3 +1,0 @@
-support
-selectAnUsupportedOSAsCurrentOS
-	OSPlatform current: MacOSPlatform.
