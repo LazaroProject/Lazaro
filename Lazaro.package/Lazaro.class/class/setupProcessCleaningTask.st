@@ -1,5 +1,6 @@
 initialization
 setupProcessCleaningTask
-"This task is here because the processes created by Lazaro are living forever at least we manually delete them. So the purpose of this task is to run and cleanup all the unused processes."
+	"This task is here because some of the processes created by Lazaro keep living forever at least we manually delete them"
+
 	[ [ OSProcess thisOSProcess resetChildProcessDictionary.
-	(Delay forDuration: (Duration minutes: 1)) wait ] repeat ] fork
+	(Delay forDuration: (Duration minutes: 5)) wait ] repeat ] fork
