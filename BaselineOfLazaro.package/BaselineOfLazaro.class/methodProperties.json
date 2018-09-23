@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"requireOSProcess:" : "MatiasMelendi 9/22/2018 20:47",
+		"requireCommandShell:" : "MatiasMelendi 9/22/2018 20:47",
+		"baseline:" : "MatiasMelendi 9/22/2018 21:10",
+		"initializeLazaro" : "MatiasMelendi 9/22/2018 21:09"
+	},
+	"class" : { }
+}

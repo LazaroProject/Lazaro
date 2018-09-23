@@ -1,12 +1,11 @@
 SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
-      #configuration : 'Lazaro',
+      #baseline : 'Lazaro',
       #directory : '/',
       #onWarningLog : true,
       #useLatestMetacello : true,
       #platforms : [ #pharo ],
-      #version : '0.1',
       #load : ['Tests']
     }
   ],
