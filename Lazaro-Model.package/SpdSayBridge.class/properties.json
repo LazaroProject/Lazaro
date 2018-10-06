@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TTSBridge",
+	"category" : "Lazaro-Model-Lazaro-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SpdSayBridge",
+	"type" : "normal"
+}

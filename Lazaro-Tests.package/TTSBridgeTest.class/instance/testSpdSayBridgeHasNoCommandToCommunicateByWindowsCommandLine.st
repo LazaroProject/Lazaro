@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testSpdSayBridgeHasNoCommandToCommunicateByWindowsCommandLine
 	self selectWin32AsCurrentOS.
 	self

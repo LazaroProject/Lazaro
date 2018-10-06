@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testFestivalBridgeHasNoACommandToCommunicateByWindowsCommandLine
 	self selectWin32AsCurrentOS.
 	self

@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testReadingTextWithGNUStep
 	| gnuStep |
 	gnuStep := GNUStepBridge newWithCommandLine: testCommandLine.

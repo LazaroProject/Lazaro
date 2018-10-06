@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ViewEventsManager",
+	"category" : "Lazaro-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TestViewEventsManager",
+	"type" : "normal"
+}

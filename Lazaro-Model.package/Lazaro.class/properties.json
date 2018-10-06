@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Lazaro-Model-Lazaro-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"AvailableTTSs"
+	],
+	"instvars" : [ ],
+	"name" : "Lazaro",
+	"type" : "normal"
+}

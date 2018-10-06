@@ -1,0 +1,3 @@
+*Lazaro-Views
+wantsKeyboardFocusNavigation
+	^ true

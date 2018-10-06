@@ -1,1 +1,3 @@
-(name 'Lazaro-Tests-MatiasMelendi.1' message 'Tag de tests promovido a paquete' id 'c7ef0232-bb32-0d00-8592-fdff04d835db' date '21 September 2018' time '12:44:36.565218 am' author 'MatiasMelendi' ancestors () stepChildren ())
+(name 'Lazaro-Tests-MatiasMelendi.1537793272' message 'renamed tts announcement manager tests and its test class' id '19d8738f-f033-0d00-9778-849c01ecc0b0' date '6 October 2018' time '9:49:49.14021 am' author 'MatiasMelendi' ancestors ((name 'Lazaro-Tests-GitHub.1537793271' message 'Merge pull request #31 from LazaroProject/reemplazar_configurationof_por_baseline
+
+Agrega BaselineOfLazaro y elimina ConfigurationOfLazaro' id 'd2f5a205-a178-505a-914c-a139f10f31f8' date '24 September 2018' time '9:47:51 am' author 'GitHub' ancestors () stepChildren ())) stepChildren ())
