@@ -1,6 +1,7 @@
 {
 	"instance" : {
-		"selectionChanged" : "MatiasMelendi 12/30/2017 18:26"
+		"selectSearchedElement" : "MatiasMelendi 10/31/2018 08:35",
+		"setSelectionIndexFromKeyboard:multiSelection:event:" : "MatiasMelendi 10/31/2018 08:33"
 	},
 	"class" : { }
 }
